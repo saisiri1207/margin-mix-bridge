@@ -38,6 +38,6 @@ Excel formulas only. No VBA, no live ERP or POS feed, no employer data. This is 
 
 Fictional company and sample data for portfolio demonstration only.
 
-[Profile](https://github.com/saisiri-bandaru) · [Portfolio](https://saisiri-bandaru.github.io) · [LinkedIn](https://www.linkedin.com/in/bandarusaisiri) · [bandarusaisiri1207@gmail.com](mailto:bandarusaisiri1207@gmail.com)
+[Profile](https://github.com/saisiri1207) · [Portfolio](https://saisiri1207.github.io) · [LinkedIn](https://www.linkedin.com/in/saisiri1207) · [bandarusaisiri1207@gmail.com](mailto:bandarusaisiri1207@gmail.com)
 
 Sai Siri Bandaru — Financial Analyst | FP&A
